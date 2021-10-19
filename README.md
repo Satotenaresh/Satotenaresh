@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satotenaresh
 - 👀 I’m interested in unity
-- 🌱 I’m currently learning unity and code.org 
+- 🌱 I’m currently learning unity and c#
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me satotenaresh@gmail.com 
 
